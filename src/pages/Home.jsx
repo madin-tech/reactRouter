@@ -1,5 +1,5 @@
 import arrow from "../assets/IconArrow.png";
-import btnShape from "../assets/btnShapes.svg";
+import btnShape from "../assets/BtnShapes.svg";
 import heroPgImg from "../assets/heroPgImg.png";
 import heroPgImgBg1 from "../assets/heroPgImgBg1.png";
 import heroPgImgBg2 from "../assets/heroPgImgBg2.png";
